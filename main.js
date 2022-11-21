@@ -100,3 +100,6 @@ function destapar(id){
         }
     }
 }
+function refreshPage(){
+    location.reload();
+}
